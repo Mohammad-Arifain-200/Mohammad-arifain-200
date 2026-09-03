@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile-cover.png" alt="Mohammad Arifain Baher - Full Stack Developer" width="100%">
+</p>
+
 <div align="center">
 
 Hi, I'm Mohammad Arifain Baher 👋
