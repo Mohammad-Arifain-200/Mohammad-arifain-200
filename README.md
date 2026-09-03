@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-cover.png" alt="Mohammad Arifain Baher - Full Stack Developer" width="100%">
+  <img src="./nayem.png" alt="Mohammad Arifain Baher - Full Stack Developer" width="100%">
 </p>
 
 <div align="center">
