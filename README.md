@@ -1,6 +1,5 @@
 <p align="center">
   <img src="./nayem.png" alt="Mohammad Arifain Baher" width="600"/>
-</p>
 <h1 align="center">Hi 👋, I'm Mohammad Arifain Baher 👨‍💻</h1>
 <h3 align="center">A passion🚀 Aspiring Full-Stack Developer | React • Next.js • TypeScript • Node.jsate frontend developer from Bangladesh</h3>
 
@@ -8,11 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-arifain-200" alt="mohammad-arifain-200" /></a> </p>
 
-- 🔭 I’m currently working on [Hope-for-the-humanity](https://hope-for-the-humanity-gsp1-rose.vercel.app/)
-
 - 🌱 I’m currently learning **Next.js, TypeScript, Node.js, MongoDB & AI Integration**
-
-- 👯 I’m looking to collaborate on [digital-dhaal](https://github.com/sajid3134/digital-dhaal.git)
 
 - 💬 Ask me about **React, Next.js, JavaScript, TypeScript & Tailwind CSS**
 
