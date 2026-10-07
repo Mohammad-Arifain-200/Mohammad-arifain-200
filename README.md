@@ -1,67 +1,35 @@
-<p align="center">
-  <img src="./nayem.png" alt="Mohammad Arifain Baher - Full Stack Developer" width="100%">
+<h1 align="center">Hi 👋, I'm Mohammad Arifain Baher 👨‍💻</h1>
+<h3 align="center">A passion🚀 Aspiring Full-Stack Developer | React • Next.js • TypeScript • Node.jsate frontend developer from Bangladesh</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-arifain-200&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-arifain-200" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-arifain-200" alt="mohammad-arifain-200" /></a> </p>
+
+- 🔭 I’m currently working on [Hope-for-the-humanity](https://hope-for-the-humanity-gsp1-rose.vercel.app/)
+
+- 🌱 I’m currently learning **Next.js, TypeScript, Node.js, MongoDB & AI Integration**
+
+- 👯 I’m looking to collaborate on [digital-dhaal](https://github.com/sajid3134/digital-dhaal.git)
+
+- 💬 Ask me about **React, Next.js, JavaScript, TypeScript & Tailwind CSS**
+
+- 📫 How to reach me **mohammadarifinbaher530@gmail.com**
+
+- ⚡ Fun fact **I love turning ideas into real-world web applications 🚀**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arifain baher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arifain baher" height="30" width="40" /></a>
+<a href="https://fb.com/arifin baher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arifin baher" height="30" width="40" /></a>
+<a href="https://instagram.com/arifin baher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arifin baher" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/users/1538980151151558729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1538980151151558729" height="30" width="40" /></a>
 </p>
 
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Hi, I'm Mohammad Arifain Baher 👋
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-arifain-200&show_icons=true&locale=en&layout=compact" alt="mohammad-arifain-200" /></p>
 
-AI-Driven Full Stack Web Developer from Bangladesh 🇧🇩
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad-arifain-200&show_icons=true&locale=en" alt="mohammad-arifain-200" /></p>
 
-
-
-
-
-</div>
-
-<picture>
-  <img src="./github-metrics.svg" alt="Mohammad Arifain Baher's GitHub metrics" width="100%">
-</picture>
-
-🛠️ Mastered Technologies and Tools
-
-<div align="center">
-
-Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js and Tailwind CSS">
-
-<p>
-  <img src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI">
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui">
-  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="HeroUI">
-</p>
-
-Backend, Database and API
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express.js and MongoDB">
-
-<p>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-  <img src="https://img.shields.io/badge/Better_Auth-111827?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth">
-</p>
-
-Development, AI and Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,firebase&theme=dark" alt="Git, GitHub, VS Code, Figma, Postman, Vercel, Netlify and Firebase">
-
-<p>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
-  <img src="https://img.shields.io/badge/SSLCommerz-008C44?style=for-the-badge&logo=moneygram&logoColor=white" alt="SSLCommerz">
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" alt="Render">
-</p>
-
-</div>
-
-<div align="center">
-
-Learn · Build · Improve · Repeat
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-arifain-200&" alt="mohammad-arifain-200" /></p>
