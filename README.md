@@ -1,9 +1,5 @@
 <p align="center">
-  <img 
-    src="./nayem.png" 
-    alt="Mohammad Arifain Baher"
-    width="100%"
-  />
+  <img src="./nayem.png" alt="Mohammad Arifain Baher" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Arifain Baher</h1>
@@ -13,25 +9,21 @@
 </h3>
 
 <p align="center">
-  Building modern, responsive and real-world web applications 🚀
+  Building modern, responsive, secure and real-world web applications 🚀
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Mohammad-Arifain-200&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Mohammad-Arifain-200&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-
 - 🌱 Learning **AI-Driven Full-Stack Web Engineering**
 - 💻 Working with **React, Next.js, TypeScript, Node.js & MongoDB**
 - 🤖 Exploring **AI-Assisted Development & AI Integration**
-
+- 🎯 Interested in building **scalable, secure and user-friendly applications**
 - 📫 **mohammadarifinbaher530@gmail.com**
 
 ---
@@ -40,15 +32,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arifain-baher-aaa412225/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="https://github.com/Mohammad-Arifain-200">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
   <a href="mailto:mohammadarifinbaher530@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -57,39 +47,22 @@
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express&theme=dark" alt="Frontend and Backend Technologies"/>
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,postman,figma,npm,vercel,netlify,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,postman,figma,npm,vercel,netlify,firebase&theme=dark" alt="Development Tools"/>
 </p>
 
 <p align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg"
-    width="48"
-    height="48"
-    alt="Mongoose"
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="48" height="48" alt="Mongoose"/>
   &nbsp;
-  <img
-    src="https://cdn.simpleicons.org/stripe/635BFF"
-    width="48"
-    height="48"
-    alt="Stripe"
-  />
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" width="48" height="48" alt="Stripe"/>
   &nbsp;
-  <img
-    src="https://cdn.simpleicons.org/ollama/ffffff"
-    width="48"
-    height="48"
-    alt="Ollama"
-  />
+  <img src="https://cdn.simpleicons.org/ollama/000000" width="48" height="48" alt="Ollama"/>
 </p>
 
 <br>
-
-<!-- Core Technologies -->
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -108,7 +81,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hero_UI-7828C8?style=flat-square"/>
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white"/>
   <img src="https://img.shields.io/badge/BetterAuth-111827?style=flat-square"/>
@@ -167,30 +140,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Mohammad-Arifain-200&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Arifain-200&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Arifain-200&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Arifain-200&layout=compact&theme=github_dark&hide_border=true&hide=RouterOS%20Script" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Arifain-200&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Arifain-200&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 <p align="center">
-  💻 Code • 🚀 Build • 🤖 Innovate
+  <b>💻 Code &nbsp; • &nbsp; 🚀 Build &nbsp; • &nbsp; 🤖 Innovate</b>
 </p>
 
 <p align="center">
