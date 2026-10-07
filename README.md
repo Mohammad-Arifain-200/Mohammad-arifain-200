@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="./nayem.png" alt="Mohammad Arifain Baher" width="180" />
+</p>
 <h1 align="center">Hi 👋, I'm Mohammad Arifain Baher 👨‍💻</h1>
 <h3 align="center">A passion🚀 Aspiring Full-Stack Developer | React • Next.js • TypeScript • Node.jsate frontend developer from Bangladesh</h3>
 
