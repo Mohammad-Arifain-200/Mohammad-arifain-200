@@ -23,11 +23,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **[Hope for Humanity](https://hope-for-the-humanity-gsp1-rose.vercel.app/)**
+
 - 🌱 Learning **AI-Driven Full-Stack Web Engineering**
 - 💻 Working with **React, Next.js, TypeScript, Node.js & MongoDB**
 - 🤖 Exploring **AI-Assisted Development & AI Integration**
-- 👯 Interested in collaborating on **[Digital Dhaal](https://github.com/sajid3134/digital-dhaal)**
+
 - 📫 **mohammadarifinbaher530@gmail.com**
 
 ---
@@ -157,30 +157,6 @@
   <img src="https://img.shields.io/badge/Testing-16A34A?style=flat-square"/>
   <img src="https://img.shields.io/badge/Deployment-F59E0B?style=flat-square"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🌍 Hope for Humanity
-
-A modern humanitarian and charity web platform with a responsive and user-friendly interface.
-
-**Tech Stack:**  
-`Next.js` `React` `Tailwind CSS`
-
-🔗 **[Live Website](https://hope-for-the-humanity-gsp1-rose.vercel.app/)**
-
----
-
-### 🛡️ Digital Dhaal
-
-A modern web platform focused on secure authentication and real-world application development.
-
-**Focus:**  
-`Next.js` `Authentication` `Security` `Full-Stack Development`
-
-🔗 **[GitHub Repository](https://github.com/sajid3134/digital-dhaal)**
 
 ---
 
