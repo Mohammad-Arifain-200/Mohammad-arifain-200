@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./nayem.png" alt="Mohammad Arifain Baher" width="600"/>
+  <img 
+    src="./nayem.png" 
+    alt="Mohammad Arifain Baher"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Arifain Baher</h1>
