@@ -169,19 +169,5 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Arifain-200&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Arifain-200&layout=compact&theme=github_dark&hide_border=true&hide=RouterOS%20Script" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Arifain-200&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
 
