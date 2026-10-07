@@ -185,10 +185,3 @@
 
 ---
 
-<p align="center">
-  <b>💻 Code &nbsp; • &nbsp; 🚀 Build &nbsp; • &nbsp; 🤖 Innovate</b>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
