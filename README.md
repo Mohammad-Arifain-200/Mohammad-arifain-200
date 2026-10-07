@@ -2,18 +2,27 @@
   <img src="./nayem.png" alt="Mohammad Arifain Baher" width="600"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohammad Arifain Baher 👨‍💻</h1>
+<h1 align="center">
+  Hi 👋, I'm Mohammad Arifain Baher 👨‍💻
+</h1>
 
 <h3 align="center">
-🚀 AI-Driven Full-Stack Web Developer | React • Next.js • TypeScript • Node.js • MongoDB
+  🚀 AI-Driven Full-Stack Web Developer
 </h3>
 
 <p align="center">
-  Building modern, responsive, secure and AI-powered real-world web applications.
+  React • Next.js • TypeScript • Node.js • Express.js • MongoDB • AI Integration
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammad-Arifain-200&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  Building modern, responsive, secure and real-world web applications.
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Mohammad-Arifain-200&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 ---
@@ -22,29 +31,49 @@
 
 - 🔭 I’m currently working on **[Hope for Humanity](https://hope-for-the-humanity-gsp1-rose.vercel.app/)**
 - 🌱 I’m currently learning **AI-Driven Full-Stack Web Engineering**
-- 💻 Working with **React, Next.js, TypeScript, Node.js, Express.js & MongoDB**
-- 🤖 Exploring **AI-Assisted Coding, Ollama, Cursor, Claude Code & AI Integration**
+- 💻 I work with **React, Next.js, TypeScript, Node.js, Express.js & MongoDB**
+- 🤖 Exploring **AI Integration, Ollama, Cursor, Claude Code & AI-Assisted Development**
 - 👯 I’m looking to collaborate on **[Digital Dhaal](https://github.com/sajid3134/digital-dhaal)**
 - 💬 Ask me about **React, Next.js, JavaScript, TypeScript, Tailwind CSS & Full-Stack Development**
-- 📫 Reach me at: **mohammadarifinbaher530@gmail.com**
+- 📫 Reach me at **mohammadarifinbaher530@gmail.com**
 - ⚡ Fun fact: **I love turning ideas into real-world web applications 🚀**
 
 ---
 
-# 🛠️ Languages, Technologies & Tools
+# 🛠️ Languages & Tools
 
 ## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+width="50"
+height="50"
+alt="HTML5"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+width="50"
+height="50"
+alt="CSS3"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+width="50"
+height="50"
+alt="JavaScript"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+width="50"
+height="50"
+alt="TypeScript"
+/>
+
 </p>
 
 ---
@@ -52,326 +81,892 @@
 ## 🎨 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+width="50"
+height="50"
+alt="React"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+width="50"
+height="50"
+alt="Next.js"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+width="50"
+height="50"
+alt="Tailwind CSS"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"
+width="50"
+height="50"
+alt="Vite"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+width="50"
+height="50"
+alt="Sass"
+/>
+
 </p>
 
 ### ⚛️ React Skills
 
-<p>
-  <img src="https://img.shields.io/badge/JSX-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Components-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Props-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/useState-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/useEffect-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/State_Management-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Data_Fetching-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-</p>
+`JSX`
+`Components`
+`Props`
+`Conditional Rendering`
+`useState`
+`useEffect`
+`Event Handling`
+`State Management`
+`State Lifting`
+`Data Fetching`
+`API Integration`
+`Reusable Components`
 
 ---
 
-## ▲ Next.js Development
+## ▲ Next.js
 
-<p>
-  <img src="https://img.shields.io/badge/App_Router-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dynamic_Routing-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Server_Components-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Client_Components-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Server_Actions-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SSR-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSR-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ISR-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Fetching-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<p align="left">
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+width="55"
+height="55"
+alt="Next.js"
+/>
+
 </p>
+
+### Next.js Skills
+
+`App Router`
+`Pages`
+`Layouts`
+`Dynamic Routing`
+`Dynamic Segments`
+`Client Components`
+`Server Components`
+`Server Actions`
+`CSR`
+`SSR`
+`ISR`
+`Data Fetching`
+`Caching`
+`Revalidation`
+`Image Optimization`
+`Font Optimization`
+`Loading UI`
+`Error Handling`
 
 ---
 
-## 🎨 UI Libraries & Styling
+## 🎨 UI Libraries
 
-<p>
-  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mobile_First-06B6D4?style=for-the-badge&logo=css3&logoColor=white"/>
+<p align="left">
+
+<img
+src="https://cdn.simpleicons.org/shadcnui/000000"
+width="50"
+height="50"
+alt="ShadCN UI"
+/>
+
+<img
+src="https://cdn.simpleicons.org/daisyui/5A0EF8"
+width="50"
+height="50"
+alt="DaisyUI"
+/>
+
+<img
+src="https://cdn.simpleicons.org/swiper/6332F6"
+width="50"
+height="50"
+alt="Swiper"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+width="50"
+height="50"
+alt="Tailwind CSS"
+/>
+
 </p>
+
+### UI Skills
+
+`Hero UI`
+`ShadCN UI`
+`DaisyUI`
+`Swiper.js`
+`Responsive Design`
+`Mobile-First Design`
+`Flexbox`
+`CSS Grid`
+`Reusable Components`
 
 ---
 
 ## ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+width="50"
+height="50"
+alt="Node.js"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+width="50"
+height="50"
+alt="Express.js"
+/>
+
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CRUD-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API_Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CORS-00599C?style=for-the-badge"/>
-</p>
+### Backend Skills
 
-### 🏗️ Backend Architecture
+`Node.js`
+`Express.js`
+`REST API`
+`CRUD API`
+`Middleware`
+`Controllers`
+`Services`
+`Routes`
+`Error Handling`
+`API Validation`
+`CORS`
+`Environment Variables`
+`Client-Server Architecture`
 
-<p>
-  <img src="https://img.shields.io/badge/MVC_Architecture-512BD4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Modular_Architecture-4B32C3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Controllers-333333?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Services-333333?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Middleware-333333?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Routes-333333?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-333333?style=flat-square"/>
-</p>
+---
+
+## 🏗️ Backend Architecture
+
+### Architecture & Design
+
+`MVC Architecture`
+`Modular Architecture`
+`Feature-Based Architecture`
+`Controllers`
+`Services`
+`Models`
+`Routes`
+`Middleware`
+`Reusable Modules`
+`Clean Code`
+`Separation of Concerns`
 
 ---
 
 ## 🗄️ Database & ODM
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+width="50"
+height="50"
+alt="MongoDB"
+/>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg"
+width="50"
+height="50"
+alt="Mongoose"
+/>
+
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+### Database Skills
 
-### MongoDB Skills
-
-<p>
-  <img src="https://img.shields.io/badge/CRUD-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Aggregation-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Projection-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sorting-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Query_Operators-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose_Schema-880000?style=flat-square&logo=mongoose&logoColor=white"/>
-</p>
+`MongoDB`
+`MongoDB Atlas`
+`Mongoose`
+`NoSQL`
+`Schema Design`
+`CRUD`
+`Aggregation Pipeline`
+`Projection`
+`Sorting`
+`Filtering`
+`MongoDB Operators`
+`Database Relationships`
+`Database Planning`
 
 ---
 
 ## 🔐 Authentication & Security
 
-<p>
-  <img src="https://img.shields.io/badge/BetterAuth-111827?style=for-the-badge&logo=auth0&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_OAuth-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RBAC-7C3AED?style=for-the-badge"/>
+<p align="left">
+
+<img
+src="https://cdn.simpleicons.org/jsonwebtokens/000000"
+width="50"
+height="50"
+alt="JWT"
+/>
+
+<img
+src="https://cdn.simpleicons.org/google/4285F4"
+width="50"
+height="50"
+alt="Google OAuth"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+width="50"
+height="50"
+alt="GitHub OAuth"
+/>
+
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/🔐_Protected_Routes-111827?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🍪_HTTPOnly_Cookies-6B7280?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🔑_Session_Management-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/📧_Email_Verification-0EA5E9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🔄_Password_Reset-EF4444?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🛡️_Security_Review-059669?style=flat-square"/>
-</p>
+### Authentication Skills
 
----
-
-## 💳 Payment Integration
-
-<p>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/💳_SSLCommerz-16A34A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stripe_Webhooks-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Payment_Validation-059669?style=for-the-badge"/>
-</p>
+`BetterAuth`
+`JWT Authentication`
+`Google OAuth`
+`GitHub OAuth`
+`Login`
+`Registration`
+`Logout`
+`Session Management`
+`Protected Routes`
+`Protected APIs`
+`HTTPOnly Cookies`
+`Password Reset`
+`Password Change`
+`Email Verification`
+`Role-Based Access Control`
+`RBAC`
+`Admin / User / Moderator Roles`
 
 ---
 
 ## 🌐 API & Data Fetching
 
-<p>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fetch_API-FFCA28?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Async/Await-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=swagger&logoColor=white"/>
+<p align="left">
+
+<img
+src="https://cdn.simpleicons.org/axios/5A29E4"
+width="50"
+height="50"
+alt="Axios"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
+width="50"
+height="50"
+alt="Postman"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+width="50"
+height="50"
+alt="Fetch API"
+/>
+
 </p>
+
+### API Skills
+
+`REST API`
+`Fetch API`
+`Axios`
+`GET`
+`POST`
+`PUT`
+`PATCH`
+`DELETE`
+`Async/Await`
+`Promises`
+`API Integration`
+`Frontend-Backend Connection`
+`API Testing`
 
 ---
 
-## 🧠 JavaScript & Browser Concepts
+## 💳 Payment Integration
 
-<p>
-  <img src="https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DOM-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/BOM-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Promises-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-F59E0B?style=for-the-badge"/>
+<p align="left">
+
+<img
+src="https://cdn.simpleicons.org/stripe/635BFF"
+width="50"
+height="50"
+alt="Stripe"
+/>
+
 </p>
+
+### Payment Skills
+
+`Stripe`
+`Stripe Checkout`
+`Stripe Webhooks`
+`Webhook Verification`
+`Payment Success Handling`
+`Payment Failure Handling`
+`Payment Refund Events`
+`Payment Records`
+`SSLCommerz`
+`SSLCommerz Sandbox`
+`Payment Validation`
+
+---
+
+## 🧠 JavaScript
+
+<p align="left">
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+width="55"
+height="55"
+alt="JavaScript"
+/>
+
+</p>
+
+### JavaScript Skills
+
+`ES6+`
+`Variables`
+`Arrays`
+`Objects`
+`Functions`
+`Loops`
+`Conditionals`
+`Arrow Functions`
+`Destructuring`
+`Spread Operator`
+`Template Literals`
+`Optional Chaining`
+`map()`
+`filter()`
+`find()`
+`reduce()`
+`forEach()`
+`Callbacks`
+`Promises`
+`Async/Await`
+
+---
+
+## 🌐 DOM & Browser Technologies
+
+<p align="left">
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+width="50"
+height="50"
+alt="JavaScript DOM"
+/>
+
+</p>
+
+### Browser Skills
+
+`DOM`
+`BOM`
+`DOM Manipulation`
+`Event Handling`
+`Event Bubbling`
+`Event Capturing`
+`Event Delegation`
+`Local Storage`
+`Session Storage`
+`History API`
+`Window Object`
+`setTimeout`
+`setInterval`
+`Fetch API`
 
 ---
 
 ## 🧩 TypeScript & OOP
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Interfaces-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generics-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Inheritance-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Polymorphism-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Abstraction-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Encapsulation-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<p align="left">
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+width="55"
+height="55"
+alt="TypeScript"
+/>
+
 </p>
 
----
+### TypeScript
 
-## 📊 Libraries & Development Utilities
+`Primitive Types`
+`Object Types`
+`Interfaces`
+`Generics`
+`Enums`
+`Type Assertions`
+`Type Casting`
+`Utility Types`
+`Nullable`
+`Unknown`
+`Never`
+`Type Narrowing`
 
-<p>
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React_Toastify-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/date--fns-770C56?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
-</p>
+### Object-Oriented Programming
+
+`Classes`
+`Objects`
+`Constructors`
+`Inheritance`
+`Polymorphism`
+`Abstraction`
+`Encapsulation`
+`Access Modifiers`
+`Getters`
+`Setters`
+`Static Members`
 
 ---
 
 # 🤖 AI-Assisted Development
 
-## 🧠 AI & Local Models
+## 🧠 AI Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<p align="left">
+
+<img
+src="https://cdn.simpleicons.org/ollama/000000"
+width="50"
+height="50"
+alt="Ollama"
+/>
+
+<img
+src="https://cdn.simpleicons.org/anthropic/191919"
+width="50"
+height="50"
+alt="Claude"
+/>
+
+<img
+src="https://cdn.simpleicons.org/githubcopilot/000000"
+width="50"
+height="50"
+alt="GitHub Copilot"
+/>
+
+<img
+src="https://cdn.simpleicons.org/replit/F26207"
+width="50"
+height="50"
+alt="Replit"
+/>
+
+<img
+src="https://cdn.simpleicons.org/vercel/000000"
+width="50"
+height="50"
+alt="V0"
+/>
+
 </p>
 
-## ✨ AI Coding Ecosystem
+### AI Development Tools
 
-<p>
-  <img src="https://img.shields.io/badge/🤖_OpenCode-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🤖_Antigravity-4F46E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🤖_Z.ai-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡_Bolt.new-F97316?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💖_Lovable-FF4F8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+`Cursor`
+`Claude Code`
+`GitHub Copilot`
+`Ollama`
+`V0`
+`Lovable`
+`Bolt.new`
+`OpenCode`
+`Antigravity`
+`Z.ai`
+`Replit AI`
+`Windsurf`
+`Firebase Studio`
+`Google AI Studio`
+`CodeRabbit`
+
+---
+
+## 🦙 Local AI & AI Integration
+
+<p align="left">
+
+<img
+src="https://cdn.simpleicons.org/ollama/000000"
+width="55"
+height="55"
+alt="Ollama"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+width="50"
+height="50"
+alt="Node.js"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+width="50"
+height="50"
+alt="Express"
+/>
+
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Replit_AI-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🌊_Windsurf-06B6D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase_Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🐇_CodeRabbit-7C3AED?style=for-the-badge"/>
-</p>
+### AI Integration Skills
+
+`Ollama`
+`Local AI Models`
+`Ollama API`
+`Express AI Module`
+`AI-Powered Features`
+`AI API Integration`
+`AI Code Review`
+`AI Refactoring`
+`Code Smell Detection`
+`Technical Debt Analysis`
+
+---
+
+## ✍️ AI Engineering
+
+### Skills
+
+`Prompt Engineering`
+`Context Engineering`
+`AI-Assisted Coding`
+`Vibe Coding`
+`AI Code Review`
+`AI Refactoring`
+`AI Project Planning`
+`AI Requirement Analysis`
+`AI-Generated User Stories`
+`AI Prototyping`
+`AI Architecture Planning`
 
 ---
 
 ## 🔌 MCP & Agentic Development
 
-<p>
-  <img src="https://img.shields.io/badge/Figma_MCP-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_MCP-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase_MCP-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🤖_AI_Agents-4F46E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🤖_Subagents-7C3AED?style=for-the-badge"/>
+<p align="left">
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
+width="50"
+height="50"
+alt="Figma MCP"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+width="50"
+height="50"
+alt="GitHub MCP"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"
+width="50"
+height="50"
+alt="Supabase MCP"
+/>
+
 </p>
+
+### MCP & Agents
+
+`Figma MCP`
+`GitHub MCP`
+`Supabase MCP`
+`Browser MCP`
+`AI Agents`
+`Subagents`
+`Agent Teams`
+`Parallel AI Agents`
+`Agentic Development`
+`Git Worktrees`
+`Plan → Execute → Review Workflow`
 
 ---
 
-## ✍️ AI Engineering Skills
+# 📋 Software Engineering
 
-<p>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Context_Engineering-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Code_Review-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Refactoring-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Integration-9333EA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vibe_Coding-A855F7?style=for-the-badge"/>
-</p>
+## 📝 Requirement & Project Planning
 
----
-
-## 📋 Software Engineering & Project Planning
-
-<p>
-  <img src="https://img.shields.io/badge/📄_PRD-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📋_Requirement_Analysis-0284C7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/👤_User_Stories-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/✅_Acceptance_Criteria-059669?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🗺️_Project_Roadmap-F59E0B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🗄️_Database_Design-47A248?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔗_API_Design-009688?style=for-the-badge"/>
-</p>
+`PRD`
+`Requirement Analysis`
+`Problem Definition`
+`User Stories`
+`Acceptance Criteria`
+`Feature Planning`
+`Project Roadmap`
+`Milestone Planning`
+`API Endpoint Design`
+`Database Design`
+`Architecture Planning`
+`Wireframing`
+`Prototyping`
 
 ---
 
-## 🧪 Testing & Code Quality
-
-<p>
-  <img src="https://img.shields.io/badge/🧪_API_Testing-FF6C37?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/✅_UAT-16A34A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔍_Code_Review-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/♻️_Refactoring-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡_Performance_Optimization-F59E0B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🐞_Debugging-EF4444?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🤖_Automated_Testing-059669?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔒_Security_Testing-DC2626?style=for-the-badge"/>
-</p>
-
----
-
-## 🎨 UI/UX & Design
+## 🧪 Testing & Quality Assurance
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" />
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
+width="50"
+height="50"
+alt="Postman"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+width="50"
+height="50"
+alt="GitHub"
+/>
+
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireframing-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prototyping-A259FF?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive_UI-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+### Testing Skills
+
+`API Testing`
+`Module Testing`
+`End-to-End Testing`
+`UAT`
+`User Acceptance Testing`
+`Live Environment Testing`
+`Payment Testing`
+`Authentication Testing`
+`Bug Fixing`
+`Debugging`
+`Validation`
 
 ---
 
-## 🛠️ Development Tools
+## ♻️ Code Quality
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
-</p>
+### Code Quality Skills
 
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+`Code Review`
+`AI Code Review`
+`Refactoring`
+`Clean Code`
+`Code Cleanup`
+`Technical Debt Detection`
+`Performance Optimization`
+`Security Review`
+`Error Handling`
+`Documentation`
+`Modularization`
+`Reusable Code`
 
 ---
 
-## 🚀 Deployment & DevOps
+# 🎨 UI/UX & Design
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
+width="50"
+height="50"
+alt="Figma"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+width="50"
+height="50"
+alt="CSS"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+width="50"
+height="50"
+alt="Tailwind CSS"
+/>
+
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🌐_Custom_Domain-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔒_SSL-16A34A?style=for-the-badge"/>
+### Design Skills
+
+`Figma`
+`Wireframing`
+`Prototyping`
+`Responsive UI`
+`Mobile-First UI`
+`Component Design`
+`Landing Page Design`
+`Dashboard UI`
+`UI/UX Review`
+
+---
+
+# 🛠️ Development Tools
+
+<p align="left">
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+width="50"
+height="50"
+alt="VS Code"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+width="50"
+height="50"
+alt="Git"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+width="50"
+height="50"
+alt="GitHub"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
+width="55"
+height="50"
+alt="NPM"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
+width="50"
+height="50"
+alt="Postman"
+/>
+
+</p>
+
+### Development Workflow
+
+`VS Code`
+`Git`
+`GitHub`
+`NPM`
+`Postman`
+`Git Branch`
+`Git Push`
+`Pull Request`
+`Merge`
+`Version Control`
+`Environment Variables`
+`.gitignore`
+
+---
+
+# ☁️ Deployment & Hosting
+
+<p align="left">
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"
+width="50"
+height="50"
+alt="Vercel"
+/>
+
+<img
+src="https://cdn.simpleicons.org/netlify/00C7B7"
+width="50"
+height="50"
+alt="Netlify"
+/>
+
+<img
+src="https://cdn.simpleicons.org/render/000000"
+width="50"
+height="50"
+alt="Render"
+/>
+
+<img
+src="https://cdn.simpleicons.org/railway/0B0D0E"
+width="50"
+height="50"
+alt="Railway"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg"
+width="50"
+height="50"
+alt="Firebase"
+/>
+
+</p>
+
+### Deployment Skills
+
+`Vercel`
+`Netlify`
+`Railway`
+`Render`
+`GitHub Pages`
+`Surge`
+`Frontend Deployment`
+`Backend Deployment`
+`Production Environment Variables`
+`Custom Domain`
+`SSL`
+`Production API Connection`
+
+---
+
+# 🔥 My Main Tech Stack
+
+<p align="center">
+
+<img
+src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb"
+alt="Main Stack"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vite,vercel,netlify,supabase"
+alt="Tools"
+/>
+
 </p>
 
 ---
@@ -380,49 +975,113 @@
 
 ## 🌍 Hope for Humanity
 
-A modern humanitarian and charity platform built with Next.js and React.
+A modern humanitarian and charity platform designed to provide a clean, responsive and user-friendly web experience.
 
-**Tech Stack:**
+### 🛠️ Tech Stack
 
+<p align="left">
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+width="40"
+height="40"
+alt="Next.js"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+width="40"
+height="40"
+alt="React"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+width="40"
+height="40"
+alt="Tailwind CSS"
+/>
+
+</p>
+
+**Technologies:**  
 `Next.js` `React` `Tailwind CSS` `Lucide React` `React Hot Toast`
 
-🔗 **Live:** [Hope for Humanity](https://hope-for-the-humanity-gsp1-rose.vercel.app/)
+🔗 **Live Website:**  
+[Hope for Humanity](https://hope-for-the-humanity-gsp1-rose.vercel.app/)
 
 ---
 
 ## 🛡️ Digital Dhaal
 
-A modern digital platform focused on secure and user-friendly web experiences.
+A modern digital platform focused on secure authentication and real-world web application development.
 
-**Technologies:**
+### 🛠️ Technologies
 
-`Next.js` `React` `Authentication` `Secure Sessions` `Modern Web Development`
+<p align="left">
 
-🔗 **GitHub:** [Digital Dhaal](https://github.com/sajid3134/digital-dhaal)
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+width="40"
+height="40"
+alt="Next.js"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+width="40"
+height="40"
+alt="React"
+/>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+width="40"
+height="40"
+alt="Node.js"
+/>
+
+</p>
+
+`Next.js`
+`React`
+`Authentication`
+`Secure Sessions`
+`Protected Routes`
+`Modern Web Development`
+
+🔗 **GitHub Repository:**  
+[Digital Dhaal](https://github.com/sajid3134/digital-dhaal)
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mohammad-Arifain-200&show_icons=true&theme=default&hide_border=true"
-    alt="Mohammad Arifain Baher's GitHub Stats"
-  />
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=Mohammad-Arifain-200&show_icons=true&theme=default&hide_border=true"
+alt="Mohammad Arifain Baher GitHub Stats"
+/>
+
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Arifain-200&layout=compact&hide_border=true&theme=default"
-    alt="Top Languages"
-  />
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Arifain-200&layout=compact&hide_border=true&theme=default"
+alt="Top Languages"
+/>
+
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Arifain-200&hide_border=true&theme=default"
-    alt="GitHub Streak"
-  />
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Arifain-200&hide_border=true&theme=default"
+alt="GitHub Streak"
+/>
+
 </p>
 
 ---
@@ -431,32 +1090,49 @@ A modern digital platform focused on secure and user-friendly web experiences.
 
 <p align="left">
 
-  <a href="https://github.com/Mohammad-Arifain-200" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-      width="40"
-      height="40"
-      alt="GitHub"
-    />
-  </a>
+<a
+href="https://github.com/Mohammad-Arifain-200"
+target="_blank"
+>
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+width="45"
+height="45"
+alt="GitHub"
+/>
+</a>
 
-  &nbsp;&nbsp;
+&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/arifain-baher-aaa412225/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-      width="40"
-      height="40"
-      alt="LinkedIn"
-    />
-  </a>
+<a
+href="https://www.linkedin.com/in/arifain-baher-aaa412225/"
+target="_blank"
+>
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+width="45"
+height="45"
+alt="LinkedIn"
+/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:mohammadarifinbaher530@gmail.com">
+<img
+src="https://cdn.simpleicons.org/gmail/EA4335"
+width="45"
+height="45"
+alt="Gmail"
+/>
+</a>
 
 </p>
 
 ---
 
 <p align="center">
-  💻 Code • 🚀 Build • 🤖 Innovate
+  💻 Code &nbsp; • &nbsp; 🚀 Build &nbsp; • &nbsp; 🤖 Innovate
 </p>
 
 <p align="center">
